@@ -1,4 +1,4 @@
-# Coffee Blog
+# Coffee Blog ☕ :coffee: 
 
 This is the third website I've built from a Web development course on Udemy. It consists in a simple blog for coffee lovers. It a very basic website built with:
 
